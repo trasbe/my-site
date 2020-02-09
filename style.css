@@ -45,7 +45,9 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
 }
-
+.header-vk{
+	background-image: url("img/vk-64.png")
+}
 .hero-image {
   margin-bottom: 620px;
 }
